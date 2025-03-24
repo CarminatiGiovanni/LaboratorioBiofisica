@@ -172,3 +172,5 @@ cython_debug/
 
 # data from microscope
 *.lif
+*.MOV
+*.mp4
